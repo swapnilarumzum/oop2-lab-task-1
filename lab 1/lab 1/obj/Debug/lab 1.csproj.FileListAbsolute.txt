@@ -1,0 +1,7 @@
+C:\Users\Asus\Dropbox\lab 1\lab 1\lab 1\bin\Debug\lab 1.exe.config
+C:\Users\Asus\Dropbox\lab 1\lab 1\lab 1\bin\Debug\lab 1.exe
+C:\Users\Asus\Dropbox\lab 1\lab 1\lab 1\bin\Debug\lab 1.pdb
+C:\Users\Asus\Dropbox\lab 1\lab 1\lab 1\obj\Debug\lab 1.csprojAssemblyReference.cache
+C:\Users\Asus\Dropbox\lab 1\lab 1\lab 1\obj\Debug\lab 1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Dropbox\lab 1\lab 1\lab 1\obj\Debug\lab 1.exe
+C:\Users\Asus\Dropbox\lab 1\lab 1\lab 1\obj\Debug\lab 1.pdb
